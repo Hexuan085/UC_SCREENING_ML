@@ -1,5 +1,5 @@
 # UC_SCREENING_ML
-The codes for ['Enabling Fast Unit Commitment Constraint Screening via Learning Cost Model'.](http://arxiv.org/abs/2212.00483)
+The codes for ['Enabling Fast Unit Commitment Constraint Screening via Learning Cost Model'](http://arxiv.org/abs/2212.00483).
 
 ## For the sample-agnostic screening
 
