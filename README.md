@@ -21,5 +21,5 @@ The codes for ['Enabling Fast Unit Commitment Constraint Screening via Learning 
 2. Using 'Reduced problem.py' to compare the results of KNN screening, the standard optimization-based screening and the proposed ccost-driven screening.
 
 ##
-_If you do not plan to generate data by your own and want to see the process along with the results of constraint screening, please skip step 1-2 and run the corresponding code since
+_If you do not plan to generate data by your own and want to see the process along with the results of constraint screening, please skip step 1-2 and run the corresponding code directly since
 the required data already exists in the corresponding path._ 
